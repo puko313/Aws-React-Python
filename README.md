@@ -1,120 +1,68 @@
-Contribution: 2019-01-09 20:00
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2019-01-09 20:01
+## Available Scripts
 
-Contribution: 2019-01-10 20:00
+In the project directory, you can run:
 
-Contribution: 2019-01-10 20:01
+### `yarn start`
 
-Contribution: 2019-01-10 20:02
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2019-01-10 20:03
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-Contribution: 2019-01-10 20:04
+### `yarn test`
 
-Contribution: 2019-01-11 20:00
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2019-01-11 20:01
+### `yarn build`
 
-Contribution: 2019-01-11 20:02
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2019-01-14 20:00
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-Contribution: 2019-01-14 20:01
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2019-01-14 20:02
+### `yarn eject`
 
-Contribution: 2019-01-14 20:03
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2019-01-18 20:00
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2019-01-18 20:01
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2019-01-18 20:02
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2019-01-18 20:03
+## Learn More
 
-Contribution: 2019-01-18 20:04
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2019-01-21 20:00
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contribution: 2019-01-22 20:00
+### Code Splitting
 
-Contribution: 2019-01-25 20:00
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Contribution: 2019-01-25 20:01
+### Analyzing the Bundle Size
 
-Contribution: 2019-01-25 20:02
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Contribution: 2019-01-28 20:00
+### Making a Progressive Web App
 
-Contribution: 2019-01-28 20:01
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-Contribution: 2019-01-30 20:00
+### Advanced Configuration
 
-Contribution: 2019-01-30 20:01
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-Contribution: 2019-01-31 20:00
+### Deployment
 
-Contribution: 2019-01-31 20:01
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-Contribution: 2019-02-05 20:00
+### `yarn build` fails to minify
 
-Contribution: 2019-02-05 20:01
-
-Contribution: 2019-02-05 20:02
-
-Contribution: 2019-02-05 20:03
-
-Contribution: 2019-02-07 20:00
-
-Contribution: 2019-02-11 20:00
-
-Contribution: 2019-02-11 20:01
-
-Contribution: 2019-02-11 20:02
-
-Contribution: 2019-02-11 20:03
-
-Contribution: 2019-02-11 20:04
-
-Contribution: 2019-02-12 20:00
-
-Contribution: 2019-02-12 20:01
-
-Contribution: 2019-02-19 20:00
-
-Contribution: 2019-02-19 20:01
-
-Contribution: 2019-02-19 20:02
-
-Contribution: 2019-02-20 20:00
-
-Contribution: 2019-02-22 20:00
-
-Contribution: 2019-02-22 20:01
-
-Contribution: 2019-02-22 20:02
-
-Contribution: 2019-02-22 20:03
-
-Contribution: 2019-02-22 20:04
-
-Contribution: 2019-02-27 20:00
-
-Contribution: 2019-02-27 20:01
-
-Contribution: 2019-03-04 20:00
-
-Contribution: 2019-03-04 20:01
-
-Contribution: 2019-03-04 20:02
-
-Contribution: 2019-03-04 20:03
-
-Contribution: 2019-03-05 20:00
-
-Contribution: 2019-03-07 20:00
-
-Contribution: 2019-03-07 20:01
-
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
